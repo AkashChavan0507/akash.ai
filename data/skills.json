@@ -1,0 +1,118 @@
+{
+  "generativeAi": {
+    "title": "Generative AI & LLMs",
+    "icon": "⚡",
+    "skills": [
+      "GPT-4",
+      "Claude",
+      "RAG (Retrieval-Augmented Generation)",
+      "Prompt Engineering",
+      "LangChain",
+      "LangGraph",
+      "Agentic AI",
+      "Hugging Face",
+      "Fine-tuning"
+    ]
+  },
+  "computerVision": {
+    "title": "Computer Vision",
+    "icon": "👁️",
+    "skills": [
+      "Comfy UI workflow",
+      "YOLO",
+      "Stable Diffusion",
+      "ControlNet",
+      "OpenCV",
+      "PIL"
+    ]
+  },
+  "nlp": {
+    "title": "Natural Language Processing",
+    "icon": "💬",
+    "skills": [
+      "NLTK",
+      "TF-IDF",
+      "Word2Vec",
+      "Bag of Words",
+      "Transformers",
+      "Sentence-Transformers"
+    ]
+  },
+  "deepLearning": {
+    "title": "Deep Learning",
+    "icon": "🧠",
+    "skills": [
+      "Artificial Neural Networks (ANN)",
+      "Convolutional Neural Networks (CNN)",
+      "Transfer Learning",
+      "TensorFlow 2.x",
+      "Keras",
+      "PyTorch"
+    ]
+  },
+  "classicalMl": {
+    "title": "Classical ML",
+    "icon": "📊",
+    "skills": [
+      "Linear Regression",
+      "Ensemble Methods",
+      "K-Nearest Neighbors (KNN)",
+      "Support Vector Machines (SVM)",
+      "Decision Trees"
+    ]
+  },
+  "awsCloud": {
+    "title": "AWS Cloud & Infrastructure",
+    "icon": "☁️",
+    "skills": [
+      "AWS Lambda",
+      "EC2",
+      "ECS",
+      "AWS Bedrock",
+      "SageMaker",
+      "Amazon Textract",
+      "Amazon Polly",
+      "Amazon S3",
+      "AWS Glue",
+      "DynamoDB",
+      "Amazon Redshift",
+      "AWS CloudFormation",
+      "AWS SAM",
+      "AWS Secrets Manager",
+      "IAM"
+    ]
+  },
+  "programming": {
+    "title": "Programming & Development",
+    "icon": "💻",
+    "skills": [
+      "Python",
+      "SQL",
+      "NumPy",
+      "Pandas",
+      "SciPy",
+      "Scikit-learn",
+      "Matplotlib",
+      "Seaborn",
+      "Flask",
+      "Django",
+      "Django REST Framework",
+      "Streamlit"
+    ]
+  },
+  "devops": {
+    "title": "DevOps & Tools",
+    "icon": "🔧",
+    "skills": [
+      "Docker",
+      "Git",
+      "GitHub",
+      "Postman",
+      "REST APIs",
+      "SSO Integration",
+      "MySQL",
+      "DynamoDB",
+      "Amazon Redshift"
+    ]
+  }
+}

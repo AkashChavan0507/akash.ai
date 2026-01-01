@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "AI Image Generation System",
+    "description": "Developed and deployed a scalable backend system for personalized AI-driven image generation. Implemented automated ComfyUI workflows to streamline image processing pipelines. Deployed the application on AWS EC2 with round-robin load balancing to ensure high availability and efficient request distribution during UAT testing, achieving improved system scalability and reliability.",
+    "technologies": ["Python", "ComfyUI", "AWS EC2", "Load Balancing", "Docker", "Image Processing"],
+    "features": ["Automated workflows", "Load balancing", "Scalable architecture", "High availability", "Image generation"]
+  },
+  {
+    "id": 2,
+    "title": "AI-Driven Campaign Intelligence System",
+    "description": "Developed an AI-powered marketing analytics platform that transforms complex campaign data into actionable insights through natural language querying. Built an intelligent agent capable of processing and analyzing multi-channel marketing performance data, enabling users to query campaign metrics, ROI analysis, and regional performance through conversational interfaces. Implemented data aggregation and visualization features to deliver real-time insights, replacing manual spreadsheet analysis with automated intelligence reporting for marketing optimization and strategic decision-making.",
+    "technologies": ["AWS Lambda","AWS Bedrock","AWS Glue","AWS Redshift","Amazon Polly","Python", "LLM", "Data pipelines", "Visualization"],
+    "features": ["Natural language querying", "Campaign analytics", "ROI analysis", "Real-time insights", "Data visualization", "Multi-channel analysis"]
+  },
+  {
+    "id": 3,
+    "title": "AI Tour Guide",
+    "description": "Developed an innovative GPS navigation app utilizing advanced technologies such as voice synthesis and large language models. Designed and implemented algorithms for voice synthesis and language processing, ensuring immersive and personalized experiences for users.",
+    "technologies": ["Python", "LLM", "Django", "Django Rest", "React Native", "AWS"],
+    "features": ["Voice synthesis", "Language processing", "Voice cloning", "Community contributions"]
+  },
+  {
+    "id": 4,
+    "title": "AI Lawyer",
+    "description": "Developed an intelligent legal assistant to help clients in case evaluation and provide advice through analysis of historical case outcomes. Created a comprehensive legal database and implemented OCR technology to extract text from image-based PDFs.",
+    "technologies": ["Python", "LLM", "Django", "Django Rest", "AWS ECR", "OCR"],
+    "features": ["Case evaluation", "Legal advice", "Historical case analysis", "OCR for PDF processing"]
+  },
+  {
+    "id": 5,
+    "title": "RAG Implementation for Articles",
+    "description": "Built a cutting-edge Retrieval-Augmented Generation (RAG) system using GPT-4 for generating variants for efficient retrieval. Implemented sparse-dense hybrid search and semantic similarity using Sentence-transformers for improved document retrieval.",
+    "technologies": ["OpenAI", "Langchain", "LLM", "MySQL", "Django", "AWS-EC2", "AWS-S3"],
+    "features": ["RAG system", "Hybrid search", "Semantic similarity", "GPT-4 integration", "Prompt engineering"]
+  },
+  {
+    "id": 6,
+    "title": "AI Headshot-Pro",
+    "description": "Developed an AI system that allowed users to upload various photos of themselves to generate professional and formal photos. Employed Stable Diffusion models, supplemented with Controlnet for open-pose conditioning.",
+    "technologies": ["Stable Diffusion", "ControlNet", "OpenCV", "PIL", "AWS", "Docker", "PyTorch", "HuggingFace"],
+    "features": ["Professional photo generation", "Stable Diffusion", "ControlNet open-pose", "Image processing"]
+  },
+  {
+    "id": 7,
+    "title": "Chat PDF",
+    "description": "Developed a question-answering system that utilized Large Language Models (LLMs) based on specific domain knowledge from PDFs provided by the user. Successfully delivered precise and contextually relevant answers to user queries.",
+    "technologies": ["OpenAI", "LangChain", "Streamlit", "Git & GitHub"],
+    "features": ["PDF-based Q&A", "Domain-specific knowledge", "LLM integration", "Contextual answers"]
+  }
+]
+

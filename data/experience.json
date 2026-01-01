@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "title": "AI Consultant",
+    "company": "Plan.net Technest India, Mumbai (Client) / Decision Culture, Pune (Payroll)",
+    "location": "Mumbai, India",
+    "period": "March 2025 - Present",
+    "description": "Architected and deployed serverless AI solutions on AWS, leveraging Lambda, Bedrock, and SAM for scalable chatbot infrastructure supporting Adobe CIM team operations.",
+    "achievements": [
+      "Designed and implemented RAG-based conversational AI systems with AWS Bedrock LLMs, integrating DynamoDB for state management and S3 for document storage",
+      "Built production-grade automation pipelines using AWS Glue and Textract for intelligent document processing, reducing manual effort by 70%",
+      "Developed interactive ML applications using Streamlit with enterprise SSO integration, ensuring secure access for 500+ users",
+      "Engineered data warehousing solutions with AWS Redshift for analytics and AWS Polly for text-to-speech capabilities",
+      "Implemented Infrastructure as Code (IaC) practices using CloudFormation and AWS SAM, accelerating deployment cycles by 50%",
+      "Managed end-to-end ML lifecycle from data extraction to model deployment, ensuring compliance with security best practices via AWS Secrets Manager"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "ML Engineer -II",
+    "company": "F(x) Data Labs Pvt. Ltd.",
+    "location": "India",
+    "period": "April 2023 - March 2025",
+    "description": "Designed end-to-end machine learning solutions aligned with business objectives. Managed data collection, preprocessing, and conducted exploratory analysis for actionable insights.",
+    "achievements": [
+      "Developed and optimized ML models using Python and libraries like TensorFlow, PyTorch, and scikit-learn",
+      "Constructed optimized data pipelines to feed machine learning models",
+      "Ensured algorithms generated accurate user recommendations",
+      "Documented workflows, mentored team members, and contributed to research initiatives",
+      "Shared results with team members, encouraging teamwork and learning together"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "ML Project Engineer",
+    "company": "Universal Softech Hub, New Delhi (Payroll) / Veritas, Pune (Client)",
+    "location": "Pune, India",
+    "period": "September 2019 - April 2023",
+    "description": "Implemented project life-cycle management processes to ensure project requirements are documented and tracked throughout development.",
+    "achievements": [
+      "Proven ability to identify and resolve project issues in a timely manner",
+      "Experience with version control systems such as Git",
+      "Knowledge of machine learning algorithms and their applications",
+      "Proficiency in Python libraries such as NumPy, Pandas, and Regex",
+      "Advanced scripting and programming skills in Python",
+      "Solid understanding of MySQL and other relational databases"
+    ]
+  }
+]
